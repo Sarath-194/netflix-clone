@@ -1,5 +1,5 @@
 # Redirect with a 301 
-/show         /302
+/profile         /tv
 
 # Redirect with a 302
 /live  /301
