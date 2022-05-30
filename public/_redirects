@@ -1,10 +1,1 @@
-# Redirect with a 301 
-/profile         /tv
-
-# Redirect with a 302
-/live  /301
-
-# Show a custom 404 for this path
-/webseries    /404
-
-/entertainment   / 
+/ https://www.google.com/
